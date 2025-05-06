@@ -1,0 +1,3 @@
+- This UI is made from learning through this link https://www.youtube.com/watch?v=_oO4Qi5aVZs&t=6913s.
+- It's just a copy of the course for learning new things only.
+- And it is an example UI for making new UI in some projects in the future.
